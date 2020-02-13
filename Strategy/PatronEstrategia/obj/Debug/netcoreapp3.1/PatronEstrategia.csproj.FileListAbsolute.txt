@@ -1,0 +1,11 @@
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.exe
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.deps.json
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.runtimeconfig.json
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.runtimeconfig.dev.json
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.dll
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\bin\Debug\netcoreapp3.1\PatronEstrategia.pdb
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\obj\Debug\netcoreapp3.1\PatronEstrategia.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\obj\Debug\netcoreapp3.1\PatronEstrategia.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\obj\Debug\netcoreapp3.1\PatronEstrategia.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\obj\Debug\netcoreapp3.1\PatronEstrategia.dll
+C:\Users\fernando.cab\source\repos\PatronEstrategia\PatronEstrategia\obj\Debug\netcoreapp3.1\PatronEstrategia.pdb
