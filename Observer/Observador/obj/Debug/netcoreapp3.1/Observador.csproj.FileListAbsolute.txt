@@ -1,0 +1,8 @@
+C:\Users\fernando.cab\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\Observador.deps.json
+C:\Users\fernando.cab\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\Observador.dll
+C:\Users\fernando.cab\source\repos\Observador\Observador\bin\Debug\netcoreapp3.1\Observador.pdb
+C:\Users\fernando.cab\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\Observador.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\Observador.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\Observador.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\Observador.dll
+C:\Users\fernando.cab\source\repos\Observador\Observador\obj\Debug\netcoreapp3.1\Observador.pdb

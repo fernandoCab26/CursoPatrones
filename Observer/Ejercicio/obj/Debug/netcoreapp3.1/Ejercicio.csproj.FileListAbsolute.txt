@@ -1,0 +1,14 @@
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Observador.dll
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\bin\Debug\netcoreapp3.1\Observador.pdb
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CopyComplete
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\fernando.cab\source\repos\Observador\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
