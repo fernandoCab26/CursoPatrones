@@ -1,0 +1,13 @@
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.exe
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.deps.json
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.runtimeconfig.json
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.runtimeconfig.dev.json
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.dll
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\ConsultaSucursales.pdb
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.csproj.CopyComplete
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.dll
+C:\Users\fernando.cab\source\repos\ConsultaSucursales\ConsultaSucursales\obj\Debug\netcoreapp3.1\ConsultaSucursales.pdb
