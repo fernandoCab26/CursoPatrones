@@ -1,0 +1,11 @@
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.exe
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.deps.json
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.runtimeconfig.json
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.runtimeconfig.dev.json
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.dll
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\bin\Debug\netcoreapp3.1\PatronBridge.pdb
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\obj\Debug\netcoreapp3.1\PatronBridge.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\obj\Debug\netcoreapp3.1\PatronBridge.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\obj\Debug\netcoreapp3.1\PatronBridge.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\obj\Debug\netcoreapp3.1\PatronBridge.dll
+C:\Users\fernando.cab\source\repos\PatronBridge\PatronBridge\obj\Debug\netcoreapp3.1\PatronBridge.pdb
