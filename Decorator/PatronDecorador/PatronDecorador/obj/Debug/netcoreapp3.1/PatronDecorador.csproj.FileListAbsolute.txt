@@ -1,0 +1,11 @@
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.exe
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.deps.json
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.runtimeconfig.json
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.runtimeconfig.dev.json
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.dll
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\bin\Debug\netcoreapp3.1\PatronDecorador.pdb
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\obj\Debug\netcoreapp3.1\PatronDecorador.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\obj\Debug\netcoreapp3.1\PatronDecorador.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\obj\Debug\netcoreapp3.1\PatronDecorador.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\obj\Debug\netcoreapp3.1\PatronDecorador.dll
+C:\Users\fernando.cab\source\repos\PatronDecorador\PatronDecorador\obj\Debug\netcoreapp3.1\PatronDecorador.pdb
